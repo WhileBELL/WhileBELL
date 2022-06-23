@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm WHILEBELL</h1>
-<h3 align="center">A passionate frontend developer from Thailand</h3>
+<h3 align="center">A programmer student from Thailand</h3>
 
 - 📫 How to reach me **bellbeileve.work@gmail.com**
 
