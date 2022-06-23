@@ -3,9 +3,10 @@
 <img align="center" alt="Coding" src="https://cdn.majorcineplex.com/uploads/content/images/m1.gif">
 
 - 📫 How to reach me **bellbeileve.work@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/believebelikebell/" target="blank"><img align="center" src="https://www.facebook.com/believebelikebell/" alt="Theerapat Mean" height="30" width="40" /></a>
+<a href="https://fb.com/theerapat mean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theerapat mean" height="30" width="40" /></a>
 <a href="https://instagram.com/tired2103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tired2103" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/whilebell officail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="whilebell officail" height="30" width="40" /></a>
 </p>
