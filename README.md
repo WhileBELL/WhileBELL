@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm WHILEBELL</h1>
 <h3 align="center">A programmer student from Thailand</h3>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1)">
 
 - 📫 How to reach me **bellbeileve.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/theerapat mean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theerapat mean" height="30" width="40" /></a>
+<a href="https://fb.com/theerapat mean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theeraimg align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."pat mean" height="30" width="40" /></a>
 <a href="https://instagram.com/tired2103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tired2103" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/whilebell officail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="whilebell officail" height="30" width="40" /></a>
 </p>
