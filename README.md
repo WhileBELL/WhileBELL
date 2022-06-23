@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm WHILEBELL</h1>
 <h3 align="center">A programmer student from Thailand</h3>
-<img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/116207...](https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1)](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif)">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif">
 
 - 📫 How to reach me **bellbeileve.work@gmail.com**
 
