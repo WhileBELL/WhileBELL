@@ -17,5 +17,5 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WhileBELL&theme=graywhite)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhileBELL&show_icons=true&theme=graywhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhileBELL&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
