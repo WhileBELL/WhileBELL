@@ -4,6 +4,7 @@
   <img src="https://cdn.majorcineplex.com/uploads/content/images/m1.gif" width="600" height="300"/>
 </div>
 
+---
 
 - 📫 How to reach me **bellbeileve.work@gmail.com**
 
