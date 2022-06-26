@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm WHILEBELL</h1>
 <h3 align="center">A CE student from Thailand</h3>
-<img align="center" alt="Coding" src="https://cdn.majorcineplex.com/uploads/content/images/m1.gif">
+<div align="center">
+  <img src="https://cdn.majorcineplex.com/uploads/content/images/m1.gif" width="600" height="300"/>
+</div>
 
 - 📫 How to reach me **bellbeileve.work@gmail.com**
 
